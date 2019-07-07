@@ -6,6 +6,7 @@ https://www.kdnuggets.com/2016/10/5-free-ebooks-machine-learning-career.html
 https://www.kdnuggets.com/2016/04/top-10-essential-books-data-enthusiast.html
 https://www.kdnuggets.com/2016/08/simplilearn-5-free-ebooks-data-science-big-data.html
 https://www.kdnuggets.com/2015/09/free-data-science-books.html
+https://www.kaggle.com/learn/intermediate-machine-learning
 GANs:
 https://www.tensorflow.org/beta/tutorials/generative/dcgan
 https://www.tensorflow.org/beta/tutorials/generative/cvae
@@ -14,10 +15,9 @@ https://www.deeplearningbook.org/
 https://www.deeplearningbook.org/
 Hyper parameter optimization:
 http://homes.esat.kuleuven.be/~mblaschk/BayesOpt/
-Deep learning:
-https://github.com/m2dsupsdlclass/lectures-labs
 Optimization for ML:
 https://github.com/epfml/OptML_course
+https://github.com/epfml/OptML_course/blob/master/README.md
 Reinforcement learning:
 https://github.com/prichemond/ds3
 Machine Learning CS-433 – 2018: https://www.epfl.ch/labs/mlo/page-157255-en-html/
@@ -25,3 +25,26 @@ CONVEX OPTIMIZATION:
 http://www.cs.cmu.edu/~pradeepr/convexopt/
 https://ee227c.github.io/
 Machine Learning and Optimization Laboratory: https://www.epfl.ch/labs/mlo/
+Mathematics of Machine Learning:
+https://ocw.mit.edu/courses/mathematics/18-657-mathematics-of-machine-learning-fall-2015/
+https://towardsdatascience.com/the-mathematics-of-machine-learning-894f046c568
+https://medium.com/technomancy/the-math-required-for-machine-learning-af0d90db3903
+https://www.edx.org/course/essential-math-for-machine-learning-python-edition-3
+https://www.coursera.org/specializations/mathematics-machine-learning
+Latent Dirichlet Allocation (LDA): https://towardsdatascience.com/end-to-end-topic-modeling-in-python-latent-dirichlet-allocation-lda-35ce4ed6b3e0
+Deep Learning:
+http://d2l.ai/
+https://course.fast.ai/
+https://github.com/m2dsupsdlclass/lectures-labs
+http://introtodeeplearning.com/
+https://github.com/kmario23/deep-learning-drizzle
+https://mithi.github.io/deep-blueberry/ch1-deep-learning-foundations.html
+Calculus: 
+https://www.coursera.org/learn/discrete-calculus
+https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/
+http://www-math.mit.edu/~djk/calculus_beginners/index.html
+https://www.mathsisfun.com/calculus/integration-definite.html
+Cheat Sheets:
+https://github.com/afshinea/stanford-cs-221-artificial-intelligence/blob/master/super-cheatsheet-artificial-intelligence.pdf
+Linear Algebra:
+https://www.math.ubc.ca/~carrell/NB.pdf
